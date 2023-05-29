@@ -20,9 +20,14 @@ Contributions are welcome! Here's how you can contribute to the project:
 
 Fork the repository.
 
-Create your feature branch: git checkout -b feature/your-feature
-Commit your changes: git commit -m 'Add some feature'
-Push to the branch: git push origin feature/your-feature
+Create your feature branch: 
+git checkout -b feature/your-feature
+
+Commit your changes: 
+git commit -m 'Add some feature'
+
+Push to the branch: 
+git push origin feature/your-feature
 
 License
 This project is licensed under the Apache 2.0 License.
